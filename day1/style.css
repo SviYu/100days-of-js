@@ -25,7 +25,7 @@ body{
     margin: 1rem;
     font-size: 1.5rem;
     padding: 1rem .5rem;
-    transition: all .7s ease;
+    transition: all .1s ease;
     width: 10rem;
     flex-wrap: wrap;
     text-align: center;
@@ -36,7 +36,7 @@ body{
 .playing{
     transform: scale(1.1);
     border-color: #ffc600;
-    box-shadow: 0 0 1 rem #ffc600;
+    box-shadow: 0 0 1rem #ffc600;
 }
 kbd{
     display: block;
