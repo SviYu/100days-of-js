@@ -26,9 +26,11 @@ h1{
     border-radius: 2px;
     box-shadow: 1px 2px 10px 0 rgba(0,0,0,.2);
     margin: 20px;
+   
 }
 .wrapper-card img{
     width: 100%;
+    height: auto;
 }
 h2{
     font-weight: 100;
