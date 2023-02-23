@@ -1,6 +1,6 @@
 
 const pressed = [];
-const secretCode = 'tango'; 
+const secretCode = 'test'; 
 
 window.addEventListener('keyup', (e) => {
   console.log(e.key);
